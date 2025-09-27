@@ -53,31 +53,10 @@ All projects are live and hosted using **Netlify**.
 
 ---
 
-## 📷 Preview
-
-![Project Folder Structure Preview](https://12-html-css-projects-by-rehman-ahmed.netlify.app/preview.png) <!-- Optional image, replace with actual preview link if needed -->
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!  
-Feel free to fork the repo, make changes, and submit a pull request. Let's build and learn together!
-
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
 ## 🙋‍♂️ Author
 
 **Rehman Ahmed Irfan**  
 🔗 [Portfolio](https://12-html-css-projects-by-rehman-ahmed.netlify.app/)  
-📧 _Your email or LinkedIn link (optional)_
+📧 _ahmed.webappdev@gmail.com_
 
 ---
-
-⭐️ _If you found this repo helpful, please consider starring it!_
